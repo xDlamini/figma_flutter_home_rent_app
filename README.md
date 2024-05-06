@@ -1,16 +1,4 @@
-# flutter_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# figma_flutter_home_rent_app
+User Interface: The app features a user interface designed using Flutter and based on a Figma prototype.
+Functionality: While the app currently lacks functionality, future plans include implementing features for navigating through the app.
+Styling: The styling of the app is a work in progress. As I continue to learn Flutter and UI design, I'll be refining the styling to improve the overall look and feel of the app.
