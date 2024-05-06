@@ -1,0 +1,40 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0' # Update SDK version if necessary
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/home_screen.png
+    - assets/images/detail_produk_13.png
+    - assets/images/menu.png
+    - assets/images/detail_produk.png
+    - assets/images/img_201912070908401.jpeg
+    - assets/images/maps.png
+    - assets/images/jurica_koletic_7_yvzyze_itc_8_unsplash_adobespark_1.png
+    - assets/images/jason_briscoe_uv_81_e_0_oxxwq_unsplash_1.jpeg
+    - assets/images/jorge_de_jorge_nvq_yk_dpe_0_rw_unsplash_1.jpeg
+    - assets/images/sidekix_media_eo_tucbv_9_jrs_unsplash_1.jpeg
+    - assets/images/cat_han_apd_1_ynuyp_0_wunsplash_1.jpeg
+    - assets/images/webaliser_tptxzd_9_moo_unsplash_1.jpeg
+    - assets/images/rarchitecture_kqpeh_ywe_lr_qunsplash_1.jpeg
+    - assets/images/avi_werde_hhz_4_yrvxwl_aunsplash_1.jpeg
+    - assets/images/digital_marketing_agency_ntwrk_g_39_p_1_kdjv_sy_unsplash_1.jpeg
+    - assets/images/pexels_expect_best_3237801.jpeg
